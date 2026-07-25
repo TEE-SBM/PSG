@@ -1,0 +1,9 @@
+folktables==0.0.12
+matplotlib==3.4.3
+numba==0.55.1
+numpy==1.21.2
+openpyxl==3.0.9
+pandas==1.5.3
+scipy==1.7.1
+torch==1.11.0
+tqdm==4.65.0
